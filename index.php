@@ -6,10 +6,14 @@
   </head>
   <body>
 
+    <header>
+      <h1>Dans Ton Dev</h1>
+    </header>
+
     <div id="navbar">
       <ul>
         <li>
-          <a href="index.html">Accueil</a>
+          <a href="index.php">Accueil</a>
         </li>
         <li>
           <a href="#">Blog</a>
@@ -24,7 +28,7 @@
     </div>
 
     <div id="presentation">
-      <h1>Qui suis-je ?</h1>
+      <h2>Qui suis-je ?</h1>
       <img src="assets/img/presentation_me.jpg" alt="Portrait of me in Lisboa during a road-trip in 2017.">
       <p>Bonjour à toi petit(e) Padawan et bienvenu sur mon site !
         Je me présente, Fanny, nouvelle dans le monde du code et de la programmation.
@@ -36,7 +40,7 @@
     <footer>
       <ul>
         <li>
-          <a href="index.html">Accueil</a>
+          <a href="index.php">Accueil</a>
         </li>
         <!-- <li>
           <a href="#">Blog</a>

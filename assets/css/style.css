@@ -1,0 +1,44 @@
+html {
+  min-width: 200px;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  border: 3px solid green;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #5d84b6;
+}
+
+p {
+  font-size: 1em;
+}
+
+a {
+  font-size: 1.3em;
+  color: #5d84b6;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+ul {
+  list-style-type : none;
+  text-align: center;
+}
+
+ul li {
+  display : inline-block;
+}
+
+#header {
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+}

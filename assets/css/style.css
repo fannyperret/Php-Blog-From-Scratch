@@ -17,6 +17,12 @@ h2 {
   color: #5d84b6;
 }
 
+h3 {
+  font-size: 1.3em;
+  text-align: center;
+  color: #f84e4a;
+}
+
 p {
   font-size: 1em;
 }
@@ -41,4 +47,44 @@ ul li {
   margin: auto;
   padding: 10px;
   width: 50%;
+}
+
+
+/* form */
+
+.contact {
+  margin: auto;
+    padding: 30px;
+  width: 600px;
+}
+
+#contact {
+  padding: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+#contact:hover {
+  background-color: #4187ed;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 20px;
+}
+#contact:hover h3 {
+  color: white;
+}
+#contact:hover {
+  color: white;
+}
+
+input {
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: yellow;
+}
+
+textarea {
+  padding: 10px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: yellow;
 }

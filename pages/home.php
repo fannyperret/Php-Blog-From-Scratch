@@ -16,8 +16,8 @@
       <p>Bonjour à toi petit(e) Padawan et bienvenu(e) sur mon site !
         Je me présente, Moi, petite nouvelle dans le monde du code et de la programmation.
         Ancienne Historienne de l'Art j'y vois ici un tout autre moyen d'utiliser le développement web comme sauvegarde de la culture et de la connaissance (quelle noblesse d'âme...).
-        Tu l'auras deviné petit(e) Padawan aguerri(e) je suis une amoureuse inconditionnelle de Github.
-        D'ailleurs mon pauvre chat en a fait les frais, il s'appelle Git (j'aime troller la vie).</p>
+        Ce site sera l'expression même de mon évolution, une sorte de "laboratoire du code".
+        Sinon ? J'aime beaucoup utiliser les commandes git... A tel point que mon chat en porte le nom...</p>
     </div>
 
 </div>

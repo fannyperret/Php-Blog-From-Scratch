@@ -1,4 +1,4 @@
 <header id="header">
   <h1>Dans Ton Dev</h1>
-  <p>"Chronique & galères de code"</p>
+  <p>"Site actuellement en construction"</p>
 </header>

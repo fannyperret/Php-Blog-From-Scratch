@@ -33,7 +33,7 @@
       <img src="../assets/img/portfolio/symfony.png" alt="symfony">
       <img src="../assets/img/portfolio/bootstrap.png" alt="bootstrap">
       <img src="../assets/img/portfolio/materialize.png" alt="materialize">
-      <img src="../assets/img/portfolio/phaser.png" alt="phaser">
+      <img src="../assets/img/portfolio/phaser.jpg" alt="phaser">
     </div>
     <div class="">
       <h3>Mes éditeurs de texte</h3>

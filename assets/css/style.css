@@ -1,16 +1,11 @@
-html {
-  min-width: 200px;
-}
-
 body {
   font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
   font-size: 3.3em;
-  text-align: center;
   color: white;
-  /* border: 3px solid green; */
+  text-align: center;
 }
 
 h2 {
@@ -20,28 +15,34 @@ h2 {
 
 h3 {
   font-size: 1.3em;
-  text-align: center;
   color: #f84e4a;
+  text-align: center;
 }
 
 p {
   font-size: 1em;
+  text-align: justify;
+  text-indent: 2em;
 }
 
 a {
   font-size: 1.3em;
   color: #5d84b6;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 ul {
-  list-style-type : none;
   text-align: center;
+  padding: 15px;
 }
 
 ul li {
   display : inline-block;
+  text-align: center;
+}
+ul li:hover {
+  background-color: #D2F4F7;
 }
 
 #header {
@@ -61,7 +62,26 @@ ul li {
 }
 
 .today {
+  font-size: 1.2em;
   color: #FFDC00;
+}
+
+/* FLEXBOX Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+    .row, .navbar {
+        flex-direction: column;
+    }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.right_side {
+  flex: 30%;
+  background-color: #F1F1F1;
+  padding: 20px;
 }
 
 .responsive {

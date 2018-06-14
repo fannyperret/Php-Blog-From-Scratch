@@ -184,3 +184,14 @@ textarea {
   border-style: solid;
   border-color: #FFBB00;
 }
+
+/* PORTFOLIO */
+.gallery {
+  width: 200px;
+  float: left;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}

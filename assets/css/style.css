@@ -28,8 +28,12 @@ p {
 a {
   font-size: 1.3em;
   color: #5d84b6;
+  text-decoration: none;
   padding-left: 40px;
   padding-right: 40px;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 ul {
@@ -43,6 +47,11 @@ ul li {
 }
 ul li:hover {
   background-color: #D2F4F7;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
 
 #header {
@@ -88,6 +97,8 @@ ul li:hover {
   display: block;
   max-width: 100%;
   height: auto;
+  -webkit-filter: blur(2px); /* Safari 6.0 - 9.0 */
+  filter: blur(2px);
 }
 .content {
   position: relative;
@@ -187,11 +198,15 @@ textarea {
 
 /* PORTFOLIO */
 .gallery {
-  width: 200px;
-  float: left;
-}
-
-.gallery img {
+  margin: 0 auto;
   width: 100%;
+}
+.gallery img {
+  margin: 0 auto;
+  width: 120px;
   height: auto;
+  padding: 20px;
+}
+.card {
+
 }

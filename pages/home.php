@@ -5,10 +5,10 @@
     <h2>Title Heading</h2>
     <h3>Title description</h3>
     <p>Bonjour à toi petit(e) Padawan et bienvenu(e) sur mon site !
-      Je me présente, Moi, petite nouvelle dans le monde du code et de la programmation.
+      J'ai commencé le code il y a seulement un an et il me reste tellement de choses encore à apprendre !.
       Ancienne Historienne de l'Art j'y vois ici un tout autre moyen d'utiliser le développement web comme sauvegarde de la culture et de la connaissance (quelle noblesse d'âme...).
-      Ce site sera l'expression même de mon évolution, une sorte de "laboratoire du code".
-      Sinon ? J'aime beaucoup utiliser les commandes git... A tel point que mon chat en porte le nom...</p>
+      Ce site sera l'expression même de mon évolution, une sorte de "laboratoire du code" et j'espère pouvoir évoluer petite à petit en me donnant chaque jour des petits défis pour progresser.
+    </p>
   </div>
 
   <div class="right_side">

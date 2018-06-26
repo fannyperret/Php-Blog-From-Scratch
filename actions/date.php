@@ -7,6 +7,8 @@ function sayTheDay() {
     echo "Courage aujourd'hui c'est " . $date . "...";
   } elseif ($date == 'Samedi' | 'Dimanche') {
     echo "Youpi c'est le weekend !";
+  } elseif ($date == 'Vendredi') {
+    echo "Vendredi enfin !";
   } else {
     echo "Aujourd'hui nous sommes " . $date . " !";
   }
